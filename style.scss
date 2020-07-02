@@ -6,8 +6,13 @@
 
 
 @import "node_modules/bootstrap/scss/grid";
+@import "node_modules/bootstrap/scss/navbar";
 
-$mycolor : blue;
+$mycolor : #ffe;
 body {
 	background-color: $mycolor;
+}
+
+header {
+	background-color: blue;
 }
