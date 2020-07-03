@@ -9940,4 +9940,13 @@ a {
   margin-left: 3em;
 }
 
+section {
+  background-color: #0d3a86;
+  margin-top: 5em;
+}
+
+.jumbotron {
+  background-color: #0d3a86;
+}
+
 /*# sourceMappingURL=style.css.map */

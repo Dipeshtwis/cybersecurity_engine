@@ -25,7 +25,16 @@ a {
  font-size : 26px;
  color : white;
  }
- 
+
  .navbar-collapse {
  margin-left :3em;
+ }
+
+ section {
+ background-color: $mycolor;
+ margin-top: 5em;
+ }
+
+ .jumbotron {
+  background-color: $mycolor;
  }
